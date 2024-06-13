@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krozv&exclude_repo=algorithm)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krozv)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=krozv)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **krozv/krozv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
