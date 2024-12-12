@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krozv&hide=python&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krozv&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![코드트리|실력진단-krozv](https://banner.codetree.ai/v1/banner/krozv)](https://www.codetree.ai/profiles/krozv)
 <!--
